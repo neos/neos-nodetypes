@@ -11,7 +11,8 @@
         "neos/neos": "self.version",
         "neos/fusion": "self.version",
 
-        "neos/nodetypes-contentreference": "self.version"
+        "neos/nodetypes-contentreference": "self.version",
+        "neos/nodetypes-html": "self.version"
     },
     "replace": {
         "typo3/neos-nodetypes": "self.version"
