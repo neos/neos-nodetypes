@@ -9,7 +9,9 @@
         "neos/media": "self.version",
         "neos/content-repository": "self.version",
         "neos/neos": "self.version",
-        "neos/fusion": "self.version"
+        "neos/fusion": "self.version",
+
+        "neos/contentreference": "self.version"
     },
     "replace": {
         "typo3/neos-nodetypes": "self.version"
