@@ -11,7 +11,9 @@
         "neos/neos": "self.version",
         "neos/fusion": "self.version",
 
-        "neos/nodetypes-contentreference": "self.version",
+        "neos/nodetypes-assetlist": "self.version",
+        "neos/nodetypes-columnlayouts": "self.version",
+        "neos/nodetypes-contentreferences": "self.version",
         "neos/nodetypes-html": "self.version"
     },
     "replace": {
